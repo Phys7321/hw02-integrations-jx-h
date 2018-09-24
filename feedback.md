@@ -1,0 +1,2 @@
+# Feedback
+Nice insight on the anharmonic pendulum. It's always good to make sure that your results match your physical/mathematical intuition. As far as the charge distributions go, I think you still have a little work to do on the MATLAB side of things. The results out of the python script look good, I would like to see you use the function *grad* to make your life a little easier and use contour plots to display the potential. Using the quiver on top of the contour plots yields quite a nice display.
